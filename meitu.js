@@ -2,7 +2,7 @@ const express = require('express')
 
 const app = express()
 
-const port = 80
+const port = 8088
 
 app.use(express.static('./dist'))
 
