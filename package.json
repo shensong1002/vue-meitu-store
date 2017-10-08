@@ -1,0 +1,16 @@
+{
+  "name": "vue-meitu-store",
+  "version": "1.0.0",
+  "description": "美图商城",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node meitu.js"
+  },
+  "author": "shensong1002 <434673370@qq.com>",
+  "license": "ISC"
+}
